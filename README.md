@@ -16,7 +16,10 @@ A policy-grounded internal IT employee-support agent prototype created for the A
 ```bash
 python -m http.server 8000
 ```
-Open `http://localhost:8000`.
+Open 
+Domains
+Registered with
+veridian-it-service-agent--ANUBHAVLU999.replit.app
 
 No API key is required. This prototype uses a transparent rule-based policy router so the behavior can be demonstrated reliably in a short interview. An LLM/RAG provider can be added behind the same interface later.
 
