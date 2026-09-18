@@ -13,8 +13,7 @@ A policy-grounded internal IT employee-support agent prototype created for the A
 - Maintain a local audit trail
 
 ## Run locally
-```bash
-python -m http.server 8000
+
 ```
 Open 
 Domains
