@@ -20,7 +20,6 @@ Domains
 Registered with
 
 https://veridian-it-service-agent--anubhavlu999.replit.app/
-veridian-it-service-agent--ANUBHAVLU999.replit.app
 
 No API key is required. This prototype uses a transparent rule-based policy router so the behavior can be demonstrated reliably in a short interview. An LLM/RAG provider can be added behind the same interface later.
 
