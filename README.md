@@ -14,10 +14,7 @@ A policy-grounded internal IT employee-support agent prototype created for the A
 
 ## Run locally
 
-```
-Open 
-Domains
-Registered with
+
 
 link= https://veridian-it-service-agent--anubhavlu999.replit.app/
 
